@@ -26,7 +26,7 @@
 
 /**
  * End Global Variables
- * Start Helper Functions
+ * Start Helper Functionsd
  * 
 */
 
